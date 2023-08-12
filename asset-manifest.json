@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/satyavarma185/My-apps/static/css/main.c77582f1.css",
+    "main.js": "/satyavarma185/My-apps/static/js/main.bab7d651.js",
+    "index.html": "/satyavarma185/My-apps/index.html",
+    "main.c77582f1.css.map": "/satyavarma185/My-apps/static/css/main.c77582f1.css.map",
+    "main.bab7d651.js.map": "/satyavarma185/My-apps/static/js/main.bab7d651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77582f1.css",
+    "static/js/main.bab7d651.js"
+  ]
+}
